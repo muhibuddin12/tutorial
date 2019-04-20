@@ -9,10 +9,6 @@
 <body>
     <ul>
         <li><a href="http://"></a></li>
-        <li><a href="http://"></a></li>
-        <li><a href="http://"></a></li>
-        <li><a href="http://"></a></li>
-        <li><a href="http://"></a></li>
     </ul>
 </body>
 </html>
